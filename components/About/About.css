@@ -1,0 +1,22 @@
+.center-top{
+  text-align: center;
+}
+
+.left{
+  position: relative;
+  left: 400px;
+  top: 190px;
+}
+
+.right{
+  position: relative;
+  left: 1200px;
+  top: -350px;
+}
+
+.middle{
+  position: relative;
+  left: 800px;
+  top: -80px;
+
+}
